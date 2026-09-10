@@ -9,7 +9,7 @@ This project focuses on Data Quality Analysis (DQA) and end-to-end data pipeline
 
 ## 📂 Project Structure
 * `README.md`: An introduction to the project.
-* `sales_dashboard.png`: An image of the dashboard from Power BI.
+* `ecommerce_dashboard.png`: An image of the dashboard from Power BI.
 * `/Datasets`: Contains the raw and cleaned dataset.
 * `/Queries`: Contains .SQL files that show the process of auditing.
 * `/Findings`: Contains .CSV files that show results from queries.
